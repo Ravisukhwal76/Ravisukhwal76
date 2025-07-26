@@ -1,32 +1,31 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Ravi Sukhwal
 
-Welcome to my GitHub profile! I'm a [your role, e.g., Software Developer, Data Scientist, or Full-Stack Engineer] passionate about [your interests, e.g., building web applications, solving data challenges, or creating user-friendly interfaces]. I love collaborating on projects and learning new technologies.
+I'm a Full Stack Developer with 2 years of experience working with **Spring Boot** and **React.js**. I enjoy building web applications and learning new tools that make development easier and faster. I’ve also worked with **CI/CD pipelines**, **Jenkins**, and **Nginx**.
 
-## 🚀 About Me
-- 🔭 Currently working on [describe a current project or focus, e.g., "a React-based chat application"].
-- 🌱 Learning [mention technologies or skills you're exploring, e.g., "TypeScript and GraphQL"].
-- 💬 Ask me about [topics you're confident in, e.g., "React, Python, or project management tools"].
-- 📫 Reach me at [your email or social media, e.g., "example@email.com"].
+## 🔧 What I'm Working On
+- Improving my backend skills with Spring Boot
+- Creating clean and responsive UIs using React
+- Learning more about cloud deployment and automation
+
+## 💬 You can ask me about
+- Java and Spring Boot
+- React.js basics and structure
+- CI/CD setup with Jenkins
 
 ## 🛠️ Skills
-- **Languages**: [e.g., Python, JavaScript, Java, C++]
-- **Frameworks & Tools**: [e.g., React, Node.js, Django, Git]
-- **Other**: [e.g., Agile Methodologies, Database Management, Cloud Services]
+- **Languages**: Java, JavaScript
+- **Frameworks**: Spring Boot, React.js
+- **Tools**: Git, Jenkins, Nginx, MySQL, Docker
 
-## 🌟 Featured Projects
-- **[Project Name 1](link-to-repo)**: [Brief description, e.g., "A task management system with real-time collaboration and time-tracking features, built with React and Firebase."]
-- **[Project Name 2](link-to-repo)**: [Brief description, e.g., "A data visualization dashboard using Python and Plotly to analyze sales data."]
-- **[Project Name 3](link-to-repo)**: [Brief description, e.g., "A mobile-responsive portfolio website built with Tailwind CSS and Next.js."]
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Ravi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ravisukhwal76&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravisukhwal76&layout=compact&theme=radical)
 
-## 📫 Connect with Me
-- [LinkedIn](your-linkedin-url)
-- [Twitter/X](your-twitter-url)
-- [Portfolio/Blog](your-portfolio-or-blog-url)
+## 📫 How to Reach Me
+- Email: ravisukhwal.dev@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/ravisukhwal)
 
 ---
 
-⭐️ *Feel free to star my repos if you find them interesting!*
+⭐️ *If you find my work useful, feel free to star or fork my projects.*
