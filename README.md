@@ -23,9 +23,7 @@ I'm a Full Stack Developer with 2 years of experience working with **Spring Boot
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravisukhwal76&layout=compact&theme=radical)
 
 ## 📫 How to Reach Me
-- Email: ravisukhwal.dev@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/ravisukhwal)
+- Email: ravisukhwal949@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/ravi-sukhwal)
 
 ---
-
-⭐️ *If you find my work useful, feel free to star or fork my projects.*
