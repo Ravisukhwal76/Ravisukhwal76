@@ -15,7 +15,7 @@ I'm a Full Stack Developer with 2 years of experience working with **Spring Boot
 ## 🛠️ Skills
 - **Languages**: Java, JavaScript
 - **Frameworks**: Spring Boot, React.js
-- **Tools**: Git, Jenkins, Nginx, MySQL, Docker
+- **Tools**: Git, Jenkins, Nginx, MySQL.
 
 
 ## 📊 GitHub Stats
