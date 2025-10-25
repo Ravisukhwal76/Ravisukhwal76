@@ -8,9 +8,9 @@ I'm a Full Stack Developer with 2 years of experience working with **Spring Boot
 - Learning more about cloud deployment and automation
 
 ## 💬 You can ask me about
-- Java and Spring Boot
-- React.js basics and structure
-- CI/CD setup with Jenkins
+- Java and Spring Boot.
+- React.js basics and structure.
+- CI/CD setup with Jenkins.
 
 ## 🛠️ Skills
 - **Languages**: Java, JavaScript.
