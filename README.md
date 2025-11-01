@@ -3,9 +3,9 @@
 I'm a Full Stack Developer with 2 years of experience working with **Spring Boot** and **React.js**. I enjoy building web applications and learning new tools that make development easier and faster. I’ve also worked with **CI/CD pipelines**, **Jenkins**, and **Nginx**.
 
 ## 🔧 What I'm Working On
-- Improving my backend skills with Spring Boot.
-- Creating clean and responsive UIs using React.
-- Learning more about cloud deployment and automation.
+- Improving my backend skills with Spring Boot
+- Creating clean and responsive UIs using React
+- Learning more about cloud deployment and automation
 
 ## 💬 You can ask me about
 - Java and Spring Boot.
