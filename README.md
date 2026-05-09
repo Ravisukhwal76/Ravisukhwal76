@@ -9,7 +9,7 @@ I'm a Full Stack Developer with 2 years of experience working with **Spring Boot
 
 ## 💬 You can ask me about
 - Java and Spring Boot.
-- React.js basics and structure.
+- React.js, Angular and data structure.
 - CI/CD setup with Jenkins.
 
 ## 🛠️ Skills
