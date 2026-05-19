@@ -17,7 +17,6 @@ I'm a Full Stack Developer with 2 years of experience working with **Spring Boot
 - **Frameworks**: Spring Boot, React.js.
 - **Tools**: Git, Jenkins, Nginx, MySQL, IntelliJ.
 
-
 ## 📊 GitHub Stats
 ![Ravi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ravisukhwal76&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravisukhwal76&layout=compact&theme=radical)
